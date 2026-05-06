@@ -1,1 +1,3 @@
-# Road_Accidents_EDA_Project
+### Road_Accidents_EDA_Project
+
+This project focuses on the analysis of road accident data in India using Exploratory Data Analysis (EDA) techniques. The objective was to identify accident patterns and understand the major factors contributing to road accidents. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset was cleaned, processed, and visualized for better analysis. The project examines accident trends across different cities, road conditions, weather impact, time-based patterns, and key causes of accidents. The insights obtained from this analysis can help in understanding road safety challenges and support better decision-making for accident prevention.
